@@ -21,6 +21,9 @@ body.confuse{
   background: linear-gradient(#FEA954, #DA7315);
 }
 body.like{
+  background: linear-gradient(#FED151, #fc0328);
+}
+body.happy{
   background: linear-gradient(#FED151, #DE981F);
 }
 .wrapper{
