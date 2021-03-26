@@ -1117,11 +1117,7 @@ footer .copy-right {
  * Mobile phones 
  */
 @media (max-width: 575px){
-	.banner .slide-one h3, .banner .slide-two h3,
-	.banner .slide-one .btn, .banner .slide-two .btn {display: none !important;}
-	.banner-video .slider .video-header {bottom: 70px;}
-	
-	.meet .meet-map .map-marker img {max-width: 15px !important;}
+	.banner img{min-height:400px;}
 }
 
 /*
