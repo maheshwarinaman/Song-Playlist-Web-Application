@@ -47,7 +47,7 @@ let All_song = [
    {
      name: "Bejubaan fir se",
      path: "musicangry/song4.mp3",
-     img: "imglove/img4.jpg",
+     img: "imgangry/img4.jpg",
      singer: "Jubin Nautiyal"
    },
    {
