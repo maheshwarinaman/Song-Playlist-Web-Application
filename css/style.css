@@ -1117,7 +1117,7 @@ footer .copy-right {
  * Mobile phones 
  */
 @media (max-width: 575px){
-	.banner img{min-height:400px;}
+	.banner img{min-height:500px;}
 }
 
 /*
