@@ -45,7 +45,7 @@ let All_song = [
      singer: "Arijit Singh"
    },
    {
-     name: "Kokh ke rath main",
+     name: "Kokh ke rath",
      path: "musicsad/song4.mp3",
      img: "imgsad/img4.jpg",
      singer: "Ananya Bhat"
