@@ -30,7 +30,7 @@ let All_song = [
      name: "Jee Karda",
      path: "musicangry/song1.mp3",
      img: "imgangry/img1.jpg",
-     singer: "Ed Sheeran"
+     singer: "Divya Kumar"
    },
    {
      name: "Yalgaar",

@@ -27,34 +27,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Perfect",
-     path: "musiclove/song1.mp3",
-     img: "imglove/img1.jpg",
-     singer: "Ed Sheeran"
-   },
-   {
-     name: "Tum Hi Ho",
-     path: "musiclove/song2.mp3",
-     img: "imglove/img2.jpg",
+     name: "Sooraj Dooba Hai",
+     path: "musichappy/song1.mp3",
+     img: "imghappy/img1.jpg",
      singer: "Arijit Singh"
    },
    {
-     name: "Raabta",
-     path: "musiclove/song3.mp3",
-     img: "imglove/img3.jpg",
-     singer: "Arijit Singh"
+     name: "Subah Hone na de",
+     path: "musichappy/song2.mp3",
+     img: "imghappy/img2.jpg",
+     singer: "Mika Singh"
    },
    {
-     name: "Kaabil Hoon",
-     path: "musiclove/song4.mp3",
-     img: "imglove/img4.jpg",
-     singer: "Jubin Nautiyal"
+     name: "Illahi",
+     path: "musichappy/song3.mp3",
+     img: "imghappy/img3.jpg",
+     singer: "Mohit Chauhan"
    },
    {
-     name: "O Saathi",
-     path: "musiclove/song5.mp3",
-     img: "imglove/img5.jpg",
-     singer: "Atif Aslam"
+     name: "Abhi to party",
+     path: "musichappy/song4.mp3",
+     img: "imghappy/img4.jpg",
+     singer: "Baadshah"
+   },
+   {
+     name: "Ghungroo",
+     path: "musichappy/song5.mp3",
+     img: "imghappy/img5.jpg",
+     singer: "Kailash Kher"
    }
 ];
 
