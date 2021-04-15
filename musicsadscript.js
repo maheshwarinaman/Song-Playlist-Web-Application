@@ -39,19 +39,19 @@ let All_song = [
      singer: "Shankar Mahadevan"
    },
    {
-     name: "Tose Naina",
+     name: "ToseNaina",
      path: "musicsad/song3.mp3",
      img: "imgsad/img3.jpg",
      singer: "Arijit Singh"
    },
    {
-     name: "Kokh ke rath",
+     name: "Kokh ke ",
      path: "musicsad/song4.mp3",
      img: "imgsad/img4.jpg",
      singer: "Ananya Bhat"
    },
    {
-     name: "Jay Jaykara",
+     name: "JayJayKara",
      path: "musicsad/song5.mp3",
      img: "imgsad/img5.jpg",
      singer: "Kailash Kher"

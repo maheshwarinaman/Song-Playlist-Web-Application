@@ -33,7 +33,7 @@ let All_song = [
      singer: "Ed Sheeran"
    },
    {
-     name: "Tum Hi Ho",
+     name: "TumHiHo",
      path: "musiclove/song2.mp3",
      img: "imglove/img2.jpg",
      singer: "Arijit Singh"
@@ -45,7 +45,7 @@ let All_song = [
      singer: "Arijit Singh"
    },
    {
-     name: "Kaabil Hoon",
+     name: "KaabilHoon",
      path: "musiclove/song4.mp3",
      img: "imglove/img4.jpg",
      singer: "Jubin Nautiyal"

@@ -27,7 +27,7 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Jee Karda",
+     name: "JeeKarda",
      path: "musicangry/song1.mp3",
      img: "imgangry/img1.jpg",
      singer: "Divya Kumar"
@@ -45,7 +45,7 @@ let All_song = [
      singer: "Arijit Singh"
    },
    {
-     name: "Bejubaan fir se",
+     name: "Bejubaan",
      path: "musicangry/song4.mp3",
      img: "imgangry/img4.jpg",
      singer: "Jubin Nautiyal"
