@@ -203,3 +203,9 @@ input[type="range"]::-webkit-slider-thumb{
 .right .show_song_no p:nth-child(2){
 	margin: 0 5px;
 }
+@media (max-width: 650px){
+	.right #title{font-size:25px;
+	}
+	.right #artist{font-size:15px;
+	}
+}
