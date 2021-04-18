@@ -39,10 +39,10 @@ let All_song = [
      singer: "Ajay Nagar"
    },
    {
-     name: "Raabta",
+     name: "Sadda Haq",
      path: "musicangry/song3.mp3",
      img: "imgangry/img3.jpg",
-     singer: "Arijit Singh"
+     singer: "Mohit Chauhan"
    },
    {
      name: "Bejubaan",
