@@ -54,7 +54,7 @@ let All_song = [
      name: "Ghungroo",
      path: "musichappy/song5.mp3",
      img: "imghappy/img5.jpg",
-     singer: "Kailash Kher"
+     singer: "Arijit Singhr"
    }
 ];
 
